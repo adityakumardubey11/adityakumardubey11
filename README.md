@@ -182,3 +182,26 @@ I specialize in **Full-Stack Development, Generative AI, and Scalable Applicatio
 💼 [LinkedIn](https://linkedin.com/in/adityakumardubey11)  
 ✉️ [Email](mailto:adityakrdubey1981@gmail.com)  
 
+## 🧩 Quick Code Puzzle  
+
+👉 What’s the time complexity of binary search?  
+
+<details>
+<summary>Answer</summary>  
+O(log n) 🔥  
+</details>
+
+## ⚔️ Dev RPG Journey  
+
+🧑‍💻 **Player:** Aditya Kumar Dubey  
+🎯 **Class:** Full-Stack Developer  
+🗡️ **Skills:** React.js, Next.js, Node.js, Generative AI  
+
+**Game Progress:**  
+- ✅ Level 1: Learned HTML, CSS, JavaScript  
+- ✅ Level 2: Built Inventory App & Travel Website  
+- ✅ Level 3: Web Dev Intern @ CodSoft  
+- ✅ Level 4: Frontend Intern @ Alfido Tech  
+- 🔒 Level 5: Unlocking “Full-Time Engineer” 👨‍💻  
+
+
