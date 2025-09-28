@@ -204,4 +204,27 @@ O(log n) 🔥
 - ✅ Level 4: Frontend Intern @ Alfido Tech  
 - 🔒 Level 5: Unlocking “Full-Time Engineer” 👨‍💻  
 
+## 🔑 Recruiter Challenge – Unlock My Skills  
+
+🕵️ Can you unlock my skills? Solve each level below:  
+
+**Level 1:**  
+Q: Which language is the father of OOP that I use for DSA?  
+<details><summary>Answer</summary> Java ☕ </details>  
+
+**Level 2:**  
+Q: Which JS framework helps me build full-stack projects?  
+<details><summary>Answer</summary> Next.js ⚡ </details>  
+
+**Level 3:**  
+Q: Which AI tech do I use to integrate intelligence into apps?  
+<details><summary>Answer</summary> Generative AI 🤖 </details>  
+
+![Snake animation](https://github.com/adityakumardubey11/adityakumardubey11/blob/output/github-contribution-grid-snake.svg)
+<details>
+<summary>🤫 Secret Easter Egg</summary>  
+
+ 🚀 Keep Coding, Keep Growing 🚀  
+
+
 
