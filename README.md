@@ -146,12 +146,23 @@ I specialize in **Full-Stack Development, Generative AI, and Scalable Applicatio
 
 ---
 
-## 🏆 Achievements & Certifications
-- **HackerRank** – Software Engineer Intern Test  
-- **UpGrad** – Advanced Prompt Engineering with ChatGPT  
-- **UpGrad** – Introduction to Generative AI  
-- **Google Cloud** – Generative AI Completion Badge  
-- **NPTEL** – E-Business Certification Course  
+## 🏆 Achievements & Certifications  
+
+- 🎓 **HackerRank** – Software Engineer Intern Test Certificate  
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)  
+
+- 🧠 **UpGrad** – Advanced Prompt Engineering with ChatGPT  
+![UpGrad](https://img.shields.io/badge/UpGrad-EF3C48?style=for-the-badge&logo=googlechrome&logoColor=white)  
+
+- 🤖 **UpGrad** – Introduction to Generative AI  
+![AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+
+- ☁️ **Google Cloud** – Introduction to Generative AI  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+- 📘 **NPTEL** – E-Business Certification Course  
+![NPTEL](https://img.shields.io/badge/NPTEL-FF9933?style=for-the-badge&logo=academia&logoColor=white)  
+
 
 ---
 
