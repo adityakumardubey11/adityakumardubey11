@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Aditya Kumar Dubey  
 
-<!--
-**adityakumardubey11/adityakumardubey11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Turning ideas into scalable digital ecosystems.  
+🚀 Building intelligent workspaces where productivity meets collaboration.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+
+---
+
+## 📬 Let’s Connect  
+[LinkedIn](https://linkedin.com/in/adityakumardubey11) | [Portfolio](https://adityakumardubey11.github.io) | [Email](mailto:youremail@example.com)  
+
