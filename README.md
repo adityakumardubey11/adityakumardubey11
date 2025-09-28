@@ -73,20 +73,46 @@ I specialize in **Full-Stack Development, Generative AI, and Scalable Applicatio
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
-### 🌐 Web Development Intern – CodSoft  
-*July 2025 – Aug 2025*  
-- Engineered and deployed **4 functional web applications**: Job Board Platform, E-commerce Website, Project Management Tool, and Online Quiz Maker.  
-- Integrated **secure auth, dashboards, product filtering, payment gateways, advanced search, responsive design**.  
-- Tech: **HTML, CSS, JavaScript, React.js, Next.js, Node.js, MongoDB, WordPress**.  
-- Gained practical MERN backend + DB management exposure.  
+### 👨‍💻 Web Development Intern – CodSoft  
+📅 *July 2025 – Aug 2025*  
+
+- 🚀 Engineered and deployed **4 functional web applications**:  
+  🔹 Job Board Platform  
+  🔹 E-commerce Website  
+  🔹 Project Management Tool  
+  🔹 Online Quiz Maker  
+
+- 🔐 Integrated **secure auth, dashboards, product filtering, payment gateways, advanced search, and responsive design**.  
+
+- 🛠️ **Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)  
+
+- 📚 Gained **MERN backend + DB management exposure**.  
+
+---
 
 ### 🎨 Frontend Developer Intern – Alfido Tech  
-*Sept 2025 – Present*  
-- Developed & maintained **responsive, user-centric web interfaces**.  
-- Applied **HTML5, CSS3, JavaScript, Bootstrap** to build scalable designs.  
-- Enhanced **UI interactivity & performance** via event handling & dynamic features.  
+📅 *Sept 2025 – Present*  
+
+- 🌐 Developed & maintained **responsive, user-centric web interfaces**.  
+- ⚡ Applied **HTML5, CSS3, JavaScript, Bootstrap** to build scalable designs.  
+- 🎯 Enhanced **UI interactivity & performance** via event handling & dynamic features.  
+
+- 🛠️ **Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)  
+ 
 
 ---
 
