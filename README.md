@@ -19,25 +19,57 @@ I specialize in **Full-Stack Development, Generative AI, and Scalable Applicatio
 
 ---
 
-## 🛠️ Technical Skills
+## ⚒️ Technical Skills  
 
-**Languages**  
-Java (DSA), JavaScript, HTML5, CSS3, SQL  
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries**  
-React.js, Next.js, Node.js, Express.js, Redux, Bootstrap  
+---
 
-**Databases**  
-SQL, MongoDB, Supabase  
+### 🚀 Frameworks & Libraries  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Cloud & Tools**  
-Cloudinary, WordPress, Git/GitHub, CI/CD basics  
+---
 
-**AI Technologies**  
-Generative AI, Prompt Engineering, API Integrations  
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Core Competencies**  
-Full-Stack Development, API Design, RESTful Services, Responsive UI/UX, Agile, Data Structures & Algorithms  
+---
+
+### ☁️ Cloud & Tools  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 🤖 AI Technologies  
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4B0082?style=for-the-badge&logo=openai&logoColor=white)
+![API Integration](https://img.shields.io/badge/API_Integration-0A66C2?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🏆 Core Competencies  
+🔹 Full-Stack Development  
+🔹 API Design & RESTful Services  
+🔹 Responsive UI/UX Design  
+🔹 Agile Methodologies  
+🔹 Data Structures & Algorithms
+
 
 ---
 
