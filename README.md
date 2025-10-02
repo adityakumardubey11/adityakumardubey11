@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Aditya Banner](https://your-custom-banner-link.com/banner.png)
+![Banner](./Aditya%20Banner.png)
 
 <h1 align="center">👨‍💻 Aditya Kumar Dubey</h1>
 <p align="center">
